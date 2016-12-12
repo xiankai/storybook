@@ -5,5 +5,5 @@
 	"scripts": {
 		"storybook": "start-storybook -p 9001 -c .storybook"
 	},
-	"main": "src/index.js"
+	"main": "src/export.js"
 }
