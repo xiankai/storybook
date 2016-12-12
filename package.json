@@ -1,0 +1,9 @@
+{
+	"name": "Spacebib",
+	"description": "Collection of UI components",
+	"repository": "xiankai/storybook",
+	"scripts": {
+		"storybook": "start-storybook -p 9001 -c .storybook"
+	},
+	"main": "src/index.js"
+}
